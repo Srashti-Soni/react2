@@ -7,6 +7,7 @@ const Login=()=> {
   const HandleSubmit=(e)=>{
      e.preventDefault()
      SetUser({username,pass})
+     
    }
     return(
         <div>
